@@ -24,6 +24,3 @@
 
 * [6: Reflexion](step6.md)
 
-* [Quellen](/licenses/sources.md)
-
-* [Kontakt](/contact/index.md)
